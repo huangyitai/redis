@@ -1,4 +1,4 @@
-module github.com/shanxian/redis
+module github.com/yitai/redis
 
 go 1.18
 
